@@ -52,3 +52,14 @@ Automatically map a shared company drive (S:) for domain users when they log in.
 - Group Policy configuration
 - Windows networking
 - Troubleshooting authentication and policy issues
+
+## Group Policy Drive Mapping Evidence
+
+### GPO Linked to Users OU
+![GPO Link](gpo-linked-to-corp-users.png)
+
+### Drive Mapping Configuration
+![Drive Map](gpo-drive-map-config.png)
+
+### Result on Domain User
+![Mapped Drive](mapped-drive-on-client.png)
