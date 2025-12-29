@@ -62,4 +62,4 @@ Automatically map a shared company drive (S:) for domain users when they log in.
 ![Drive Map](gpo-drive-map-config.png)
 
 ### Result on Domain User
-![Mapped Drive](mapped-drive-on-client.png)
+![Mapped Drive](mapped-drive-s.png)
